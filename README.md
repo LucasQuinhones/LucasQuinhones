@@ -25,6 +25,7 @@ Front-end developer
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/mariadb-C49A6C?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=396C94)
 
 ![Angular](https://img.shields.io/badge/angular-B52E31?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-18BCEE?style=for-the-badge&logo=react&logoColor=white)
