@@ -1,4 +1,4 @@
-### Hey there 👋, i'm Gian Lucas
+## Hey there 👋, i'm Gian Lucas
 
 <!--
 **LucasQuinhones/LucasQuinhones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Front-end developer
+### :man_technologist: Front-end developer
+
 <p><img src="https://komarev.com/ghpvc/?username=lucasquinhones&color=grey&style=flat-square"></p>
 
 ## :brain: My knowledge
