@@ -30,13 +30,14 @@ Front-end developer
 ![Angular](https://img.shields.io/badge/angular-B52E31?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-18BCEE?style=for-the-badge&logo=react&logoColor=white)
 ![Magento](https://img.shields.io/badge/magento-F36324?style=for-the-badge&logo=magento&logoColor=white)
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=#F35424)
+![Ionic](https://img.shields.io/badge/ionic-FFFFFF?style=for-the-badge&logo=ionic&logoColor=4569FF)
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-0C55C4?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/azuredevops-FFFFFF?style=for-the-badge&logo=azuredevops&logoColor=0077D6)
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=#F35424)
 
 ### Contact
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-alves/)
