@@ -47,3 +47,5 @@ Here are some ideas to get you started:
 
 
 ![Metrics](https://metrics.lecoq.io/LucasQuinhones)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasQuinhones&langs_count=4&hide=hlsl,shaderlab,jupyter%20notebook,css,html,tex&theme=dark" />
